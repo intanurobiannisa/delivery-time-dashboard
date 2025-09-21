@@ -1,6 +1,14 @@
 # 🍱🛍️📦 Delivery Time Dashboard
 
-A Simple Dashboard of Courier Delivery Time Analysis
+This project presents an interactive dashboard for analyzing delivery performance metrics. Built with Streamlit, it allows users to explore key insights from logistics data in a visual and intuitive way.
+
+# 🔍 Features
+
+Analyze Weather Condition, Traffic Level, Delivery Time, and Vehicle Type
+
+Clean and responsive interface
+
+# ⚙️ How to Run
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://courier-delivery-time-dashboard.streamlit.app/)
 
